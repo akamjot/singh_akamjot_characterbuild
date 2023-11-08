@@ -67,6 +67,10 @@ article h3, #instructions h3{
     
 }
 
+#instructions{
+    text-align: center;
+}
+
 
 
 .characters li h5 {
