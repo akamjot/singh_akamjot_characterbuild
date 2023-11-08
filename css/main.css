@@ -95,21 +95,19 @@ article p, #instruction p{
     background-image: url('../images/Aot_sprite.png'); 
 }
 
-#carol {
+#mikasa {
     background-position: -300px 0;
 }
 
-#clint {
+#armin {
     background-position: -600px 0;
 }
 
-#hulk {
+#levi {
     background-position: -900px 0;
 }
 
-#thor {
-    background-position: -1200px 0;
-}
+
 
 
 
@@ -141,17 +139,27 @@ footer {
     top: 0px;
     left: 0px;
     background-color: rgba(0, 0, 0, 0.85);
-    background-image: url(../images/Cap_LB_Bg.png);
+    background-image: url(../images/eren\ back\ 2.jpg);
     background-repeat: no-repeat;
     background-size: 55vh;
-    background-position: 40px bottom;
+    background-position: 40px center;
     z-index: 5000; /*this is crazy, better safe than sorry */ 
     display: none;
 }
-
 #lightbox2 {
-    background-image: url(../images/Thor_LB_Bg.png);
+    background-image: url(../images/mikasa_eren.png);
+    
 }
+
+#lightbox3 {
+    background-image: url(../images/Armin_background.png);
+}
+
+
+#lightbox4 {
+    background-image: url(../images/levi_ackermanback.jpg);
+}
+
 
 .lightbox_close {
     position: relative;
